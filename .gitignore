@@ -1,0 +1,17 @@
+# PyInstaller temporary compilation folders
+build/
+dist/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS specific files
+Thumbs.db
+.DS_Store
+
+#images
+icon.png
+icon.ico
+MoBRINTH.spec
+requirements.txt
